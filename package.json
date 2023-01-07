@@ -10,16 +10,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/NadinePlatonova/to-do-list.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/NadinePlatonova/to-do-list/issues"
-  },
-  "homepage": "https://nadineplatonova.github.io/to-do-list/",
   "dependencies": {
     "gh-pages": "^4.0.0",
     "react": "^18.2.0",
