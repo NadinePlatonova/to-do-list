@@ -1,6 +1,6 @@
 # To Do App (pet project)
 
-_Desktop application where you can add/edit/delete tasks to do and after refreshing your browser page all results will be saved._
+_Web application where you can add/edit/delete tasks to do and after refreshing your browser page all results will be saved._
 
 ![project demonstration](/demo.gif)
 
